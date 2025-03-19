@@ -1,4 +1,4 @@
-# This program demonstrates variables and data types
+'''This program demonstrates variables and data types'''
 
 # Defining variables
 name = "Alice"      # String
