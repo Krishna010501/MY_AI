@@ -1,7 +1,7 @@
-'''This program demonstrates variables and data types'''
+#This program demonstrates variables and data types;
 
 # Defining variables
-name = "Alice"      # String
+name = "Alice"      # String 
 age = 25           # Integer
 height = 5.7       # Float
 is_student = True  # Boolean
